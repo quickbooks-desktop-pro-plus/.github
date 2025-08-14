@@ -17,7 +17,8 @@ Run the `.exe` file to start the application.
 ## 📸 Overview
 A quick look at key parts in action:
 
-<img width="1024" height="524" alt="quickbooks-desktop-pro-plus-main-dashboard-overview" src="https://github.com/user-attachments/assets/9c109d39-7ba0-4e31-a759-a1b112b8b260" />
+![quickbooks-desktop-pro-plus-invoice-management-interface](https://github.com/user-attachments/assets/07d162d4-e219-4ee3-a450-fd89f573799a)
+
 
 ---
 
